@@ -225,13 +225,13 @@ Benefits:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/world-walks.git
+git clone https://github.com/minhcaoo24/World-Walks.git
 ```
 
 ### 2. Navigate to Project
 
 ```bash
-cd world-walks
+cd World-Walks
 ```
 
 ### 3. Configure Database
